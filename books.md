@@ -1,7 +1,7 @@
 Bold = graduate level, italics = <3
 
 ## Machine Learning
-* [_Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf_)
+* [_Pattern Recognition and Machine Learning_](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf_)
 * [_Bishop, Pattern Recognition and Machine Learning_](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 * [Hands‑On Machine Learning with Scikit‑Learn and TensorFlow](http://index-of.es/Varios-2/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) - Aurélien Géron
 * [Schapire and Freund, Boosting: Foundations and Algorithms]()
@@ -35,11 +35,13 @@ https://www.nowpublishers.com/Search?s1=Machine%20Learning&s8=book&s3=Foundation
 
 * [_Linear Algebra and its applications by Gilbert strang_](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf)
 * [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+* [Numerical Recipes](https://e-maxx.ru/bookz/files/numerical_recipes.pdf)
 * [Convex Optimization (The Purple Book)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [_Hazan, Introduction to Online Convex Optimization_](https://ocobook.cs.princeton.edu/OCObook.pdf)
 * [**Nocedal and Wright, Numerican Optimization**]()
 * [**Absil, Optimization Algorithms on Matrix Manifolds**](http://www.eeci-institute.eu/GSC2011/Photos-EECI/EECI-GSC-2011-M5/book_AMS.pdf)
 * [**Wainwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint**]()
+* [**Atkinson and Han, Theoretical Numerical Analysis: A Functional Analysis Framework**]
 
 ## Calculus
 
