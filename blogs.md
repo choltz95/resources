@@ -25,6 +25,8 @@
 * [Scott Aaronson](https://www.scottaaronson.com/blog/)
 * [Gowers (also see his blogroll)](https://gowers.wordpress.com/)
 * [AMS](https://blogs.ams.org/blogonmathblogs/)
+* [Advanced Matrix Factorization Jungle](https://sites.google.com/site/igorcarron2/matrixfactorizations)
+* [Nuit Blanche](https://nuit-blanche.blogspot.com/)
 
 ## Finance
 * [Ernest Chan](http://epchan.blogspot.com/)
