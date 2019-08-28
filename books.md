@@ -35,10 +35,10 @@ https://www.nowpublishers.com/Search?s1=Machine%20Learning&s8=book&s3=Foundation
 * [Press, Numerical Recipes](https://e-maxx.ru/bookz/files/numerical_recipes.pdf)
 * [Boyd, Convex Optimization (The Purple Book)](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 * [_Hazan, Introduction to Online Convex Optimization_](https://ocobook.cs.princeton.edu/OCObook.pdf)
-* [**Nocedal and Wright, Numerican Optimization**]()
+* [**Nocedal and Wright, Numerical Optimization**]()
 * [**Absil, Optimization Algorithms on Matrix Manifolds**](http://www.eeci-institute.eu/GSC2011/Photos-EECI/EECI-GSC-2011-M5/book_AMS.pdf)
 * [**Wainwright, High-Dimensional Statistics: A Non-Asymptotic Viewpoint**]()
-* [**Atkinson and Han, Theoretical Numerical Analysis: A Functional Analysis Framework**]
+* [**Atkinson and Han, Theoretical Numerical Analysis: A Functional Analysis Framework**]()
 
 ## Calculus
 
