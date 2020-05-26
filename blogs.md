@@ -18,7 +18,8 @@
 * [Shakir](http://blog.shakirm.com/about-me/)
 * [Elad Hazan](https://minimizingregret.wordpress.com/)
 
-## Math
+## Computer Science/Math/etc.
+* [Richard Lipton](https://rjlipton.wordpress.com/)
 * [Xingyu Zhu](https://xingyuzhou.org/blog/)
 * [Terry Tao](https://terrytao.wordpress.com/)
 * [Jeremy Kun](https://jeremykun.com/)
