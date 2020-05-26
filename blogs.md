@@ -8,6 +8,7 @@
 * [BAIR Blog](https://bair.berkeley.edu/blog/)
 * [Uber AI](https://eng.uber.com/tag/uber-ai-labs/)
 * [Colah](https://colah.github.io/)
+* [CMU ML Blog](https://blog.ml.cmu.edu/)
 * [ParameterFree](https://parameterfree.wordpress.com/)
 * [OffConvex](http://www.offconvex.org/)
 * [Sebastian Ruder](http://ruder.io/)
